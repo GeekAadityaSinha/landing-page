@@ -47,12 +47,6 @@ git clone https://github.com/your-username/your-repo-name.git
 
 ---
 
-## 📸 Preview
-
-(Add a screenshot of your project here)
-
----
-
 ## 🌱 Future Improvements
 
 * Add more sections (Features, Testimonials, Footer)
@@ -62,22 +56,10 @@ git clone https://github.com/your-username/your-repo-name.git
 
 ---
 
-## 🌐 Live Demo
-
-(You can add your GitHub Pages link here)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ---
 
