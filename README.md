@@ -84,5 +84,3 @@ This project is open source and available under the MIT License.
 ## 🙌 Acknowledgements
 
 Inspired by modern web design trends and startup landing pages.
-
----
