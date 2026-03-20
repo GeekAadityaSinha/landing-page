@@ -3,7 +3,7 @@
 A clean and responsive **landing page website** built using **HTML and CSS**.
 This project demonstrates modern UI design with a simple and maintainable structure.
 
----
+Live Link- https://geekaadityasinha.github.io/landing-page/
 
 ## 📌 Features
 
